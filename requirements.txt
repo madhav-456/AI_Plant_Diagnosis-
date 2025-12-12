@@ -1,0 +1,8 @@
+Flask
+gunicorn
+numpy
+pandas
+scikit-learn
+Pillow
+tensorflow-cpu==2.11.0
+keras==2.11.0
